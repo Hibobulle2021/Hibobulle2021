@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hibo Abdi
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning cybersecurty Managment 
+- 🌱 I’m currently learning cybersecurty 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Hibo.bulle21@gmail.com
 
